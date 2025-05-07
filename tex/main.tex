@@ -1,0 +1,97 @@
+\documentclass[a4paper,11pt,twocolumn]{jsarticle}
+\usepackage{here}
+\usepackage[dvipdfmx,nosetpagesize]{graphicx,color}
+\usepackage[T1]{fontenc}
+\usepackage{url}
+\usepackage{subcaption}
+\usepackage{indentfirst}
+\usepackage{comment}
+\usepackage{here}
+\usepackage{stfloats} 
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+
+\usepackage{array}  % for multilne tabular
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+
+%%% spacing
+\usepackage{setspace}
+\setstretch{0.8}
+
+\usepackage{geometry}
+\geometry{left=10truemm,right=10truemm,top=13truemm,bottom=28truemm}
+\renewcommand{\refname}{参考リスト}%参考文献の文字を消す
+%
+
+\usepackage{titlesec}
+\titleformat*{\section}{\Large\bfseries}
+\titlespacing*{\section}{1truemm}{2truemm}{2truemm}
+\titlespacing*{\subsection}{0pt}{3truemm}{0pt}
+
+% \setlength\intextsep{2mm}
+% \setlength\textfloatsep{2mm}
+
+% 図と図の間のスペース
+\setlength\floatsep{0truemm}
+% 本文と図の間のスペース
+% 本文中の図のスペース
+% \setlength\intextsep{0pt}
+% 図とキャプションの間のスペース
+\setlength\abovecaptionskip{0truemm}
+
+% 段抜きの上下?マージン
+\setlength\dbltextfloatsep{0truemm}
+
+%%% alias
+
+\newcommand{\figref}[1]{{図~\ref{#1}}}
+\newcommand{\tabref}[1]{{表~\ref{#1}}}
+
+\RequirePackage[l2tabu, orthodox]{nag}
+
+\begin{document}
+\twocolumn[
+{
+  \hrulefill
+  \begin{center}
+  {\number2025 年\number5 月\number23 日}HPC講座 修士論文発表会
+
+  \smallskip
+  \Large{}
+  
+  \medskip
+  \begin{tabular}{rc}
+    発表者:& 坂上創哉\\
+    所属:& 三輪研究室\\
+    指導教員:& 三輪　忍 准教授 \\
+  \end{tabular}
+  \end{center}
+  \smallskip
+  \hrulefill
+  \bigskip
+  }]
+
+\section{はじめに}
+
+
+
+\section{研究背景}
+
+\subsection{サブセクション}\label{sec:HBM}
+
+特に追加することもない。
+ 
+\section{研究目的}
+
+
+\section{まとめ}
+
+本研究は、何もできていない。
+
+
+\bibliography{references}
+\bibliographystyle{ipsjsortEX}
+
+
+\end{document}
+
