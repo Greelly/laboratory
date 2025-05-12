@@ -1,0 +1,75 @@
+This is pBibTeX, Version 0.99d-j0.33 (utf8.euc) (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: ipsjsortEX.bst
+Database file #1: references.bib
+Too many commas in name 1 of "Fumiyoshi Shoji1, Shuji Matsui, Mitsuo Okamoto, Fumichika Sueyasu, Toshiyuki Tsukamoto, Atsuya Uno, Keiji Yamamoto" for entry k_HPC
+while executing---line 2615 of file ipsjsortEX.bst
+Too many commas in name 1 of "Fumiyoshi Shoji1, Shuji Matsui, Mitsuo Okamoto, Fumichika Sueyasu, Toshiyuki Tsukamoto, Atsuya Uno, Keiji Yamamoto" for entry k_HPC
+while executing---line 2615 of file ipsjsortEX.bst
+Too many commas in name 1 of "Fumiyoshi Shoji1, Shuji Matsui, Mitsuo Okamoto, Fumichika Sueyasu, Toshiyuki Tsukamoto, Atsuya Uno, Keiji Yamamoto" for entry k_HPC
+while executing---line 2615 of file ipsjsortEX.bst
+Too many commas in name 1 of "Fumiyoshi Shoji1, Shuji Matsui, Mitsuo Okamoto, Fumichika Sueyasu, Toshiyuki Tsukamoto, Atsuya Uno, Keiji Yamamoto" for entry k_HPC
+while executing---line 2615 of file ipsjsortEX.bst
+Warning--there's no number and/or volumeHPC_system_fail
+Warning--Missing required argument pages in HPC_system_fail
+Too many commas in name 1 of "Fumiyoshi Shoji1, Shuji Matsui, Mitsuo Okamoto, Fumichika Sueyasu, Toshiyuki Tsukamoto, Atsuya Uno, Keiji Yamamoto" for entry k_HPC
+while executing---line 2697 of file ipsjsortEX.bst
+Too many commas in name 1 of "Fumiyoshi Shoji1, Shuji Matsui, Mitsuo Okamoto, Fumichika Sueyasu, Toshiyuki Tsukamoto, Atsuya Uno, Keiji Yamamoto" for entry k_HPC
+while executing---line 2697 of file ipsjsortEX.bst
+Too many commas in name 1 of "Fumiyoshi Shoji1, Shuji Matsui, Mitsuo Okamoto, Fumichika Sueyasu, Toshiyuki Tsukamoto, Atsuya Uno, Keiji Yamamoto" for entry k_HPC
+while executing---line 2697 of file ipsjsortEX.bst
+Too many commas in name 1 of "Fumiyoshi Shoji1, Shuji Matsui, Mitsuo Okamoto, Fumichika Sueyasu, Toshiyuki Tsukamoto, Atsuya Uno, Keiji Yamamoto" for entry k_HPC
+while executing---line 2697 of file ipsjsortEX.bst
+Too many commas in name 1 of "Fumiyoshi Shoji1, Shuji Matsui, Mitsuo Okamoto, Fumichika Sueyasu, Toshiyuki Tsukamoto, Atsuya Uno, Keiji Yamamoto" for entry k_HPC
+while executing---line 2697 of file ipsjsortEX.bst
+Too many commas in name 1 of "Fumiyoshi Shoji1, Shuji Matsui, Mitsuo Okamoto, Fumichika Sueyasu, Toshiyuki Tsukamoto, Atsuya Uno, Keiji Yamamoto" for entry k_HPC
+while executing---line 2697 of file ipsjsortEX.bst
+Too many commas in name 1 of "Fumiyoshi Shoji1, Shuji Matsui, Mitsuo Okamoto, Fumichika Sueyasu, Toshiyuki Tsukamoto, Atsuya Uno, Keiji Yamamoto" for entry k_HPC
+while executing---line 2697 of file ipsjsortEX.bst
+Too many commas in name 1 of "Fumiyoshi Shoji1, Shuji Matsui, Mitsuo Okamoto, Fumichika Sueyasu, Toshiyuki Tsukamoto, Atsuya Uno, Keiji Yamamoto" for entry k_HPC
+while executing---line 2697 of file ipsjsortEX.bst
+Warning--Missing required argument journal in master_kusaba
+You've used 5 entries,
+            2669 wiz_defined-function locations,
+            645 strings with 5580 characters,
+and the built_in function-call counts, 1254 in all, are:
+= -- 105
+> -- 42
+< -- 1
++ -- 17
+- -- 12
+* -- 84
+:= -- 210
+add.period$ -- 5
+call.type$ -- 5
+change.case$ -- 16
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 61
+empty$ -- 109
+format.name$ -- 16
+if$ -- 271
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 2
+newline$ -- 18
+num.names$ -- 10
+pop$ -- 26
+preamble$ -- 1
+purify$ -- 16
+quote$ -- 0
+skip$ -- 61
+stack$ -- 0
+substring$ -- 40
+swap$ -- 6
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 20
+warning$ -- 3
+while$ -- 12
+width$ -- 6
+write$ -- 38
+is.kanji.str$ -- 25
+(There were 12 error messages)

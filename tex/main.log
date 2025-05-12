@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2025.4.28)  10 MAY 2025 19:49
+This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2025.4.28)  12 MAY 2025 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -265,69 +265,55 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 13.83836pt on input line 74.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 75.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 75.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 75.
+(Font)              scaled to size 9.60999pt on input line 80.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 75.
-
-LaTeX Warning: Citation `ref:1' on page 1 undefined on input line 75.
-
-
-LaTeX Warning: Citation `ref:2' on page 1 undefined on input line 75.
-
+(Font)              scaled to size 9.60999pt on input line 80.
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 80.
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
+File: figure/Kfail.pdf Graphic file (type pdf)
+<figure/Kfail.pdf>
 
-LaTeX Warning: Citation `ref:3' on page 1 undefined on input line 81.
+Underfull \vbox (badness 1057) has occurred while \output is active []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 102.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 102.
+File: figure/Fugakufail.pdf Graphic file (type pdf)
+<figure/Fugakufail.pdf>
 
-LaTeX Warning: Citation `ref:4' on page 1 undefined on input line 81.
+Underfull \vbox (badness 2644) has occurred while \output is active []
 
-
-LaTeX Warning: Citation `ref:5' on page 1 undefined on input line 84.
-
-
-LaTeX Warning: Citation `ref:6' on page 1 undefined on input line 84.
-
-
-LaTeX Warning: Citation `ref' on page 1 undefined on input line 87.
-
-
-LaTeX Warning: Citation `ref:' on page 1 undefined on input line 87.
+ [1
 
 
-LaTeX Warning: Citation `ref:' on page 1 undefined on input line 90.
-
-
-LaTeX Warning: Citation `ref:' on page 1 undefined on input line 90.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-No file main.bbl.
+] (./main.bbl
+LaTeX Font Info:    Font shape `JT1/gt/m/it' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 5.
+LaTeX Font Info:    Font shape `JY1/gt/m/it' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 5.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 14.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+))
 No complaints by nag.
-[1
+[2
 
-
-] (./main.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4359 strings out of 478741
- 74033 string characters out of 5860982
- 403396 words of memory out of 5000000
- 22749 multiletter control sequences out of 15000+600000
- 480017 words of font info for 66 fonts, out of 8000000 for 9000
+ 4411 strings out of 478741
+ 75178 string characters out of 5860982
+ 406396 words of memory out of 5000000
+ 22789 multiletter control sequences out of 15000+600000
+ 480332 words of font info for 68 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 67i,8n,77p,720b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,8n,77p,758b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (1 page, 8624 bytes).
+Output written on main.dvi (2 pages, 12952 bytes).
