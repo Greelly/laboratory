@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2025.4.28)  12 MAY 2025 20:05
+This is e-pTeX, Version 3.141592653-p3.9.1-210218-2.6 (utf8.euc) (TeX Live 2022/dev/Debian) (preloaded format=platex 2025.4.28)  13 MAY 2025 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -276,17 +276,14 @@ File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 File: figure/Kfail.pdf Graphic file (type pdf)
 <figure/Kfail.pdf>
 
-Underfull \vbox (badness 1057) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 102.
+(Font)              <5> on input line 104.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 102.
+(Font)              scaled to size 4.805pt on input line 104.
 File: figure/Fugakufail.pdf Graphic file (type pdf)
 <figure/Fugakufail.pdf>
-
-Underfull \vbox (badness 2644) has occurred while \output is active []
-
  [1
 
 
@@ -306,14 +303,18 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 No complaints by nag.
 [2
 
-] (./main.aux) ) 
+] (./main.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  4411 strings out of 478741
  75178 string characters out of 5860982
- 406396 words of memory out of 5000000
+ 408396 words of memory out of 5000000
  22789 multiletter control sequences out of 15000+600000
  480332 words of font info for 68 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  67i,8n,77p,758b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (2 pages, 12952 bytes).
+Output written on main.dvi (2 pages, 13864 bytes).
